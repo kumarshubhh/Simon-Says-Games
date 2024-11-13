@@ -34,7 +34,7 @@ To run the game locally, follow these steps:
 
    ```sh
   https://github.com/kumarshubhh/Simon-Says-Games.git
-   ```
+   ``
 
 2. Open the index.html file in your web browser to play.
 
